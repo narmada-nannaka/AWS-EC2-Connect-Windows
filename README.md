@@ -30,8 +30,10 @@ Run the script on Windows Powershell and not on Windows Powershell x86
 
 - [ ] Ensure the inbound rules for the security group selected for the EC2 instance is configured with SSH and is open to your IP Address. 
 - [ ] If it is open to internet, it should be as follows:
+
  Type | Protocol | Port Range | Source
  ---- | -------- | ---------- | ------
  SSH | TCP | 22| 0.0.0.0/0
  SSH| TCP | 22 | ::/0
+ 
  - [ ] Verify firewall settings 
