@@ -34,6 +34,6 @@ Run the script on Windows Powershell and not on Windows Powershell x86
  Type | Protocol | Port Range | Source
  ---- | -------- | ---------- | ------
  SSH | TCP | 22| 0.0.0.0/0
- SSH| TCP | 22 | ::/0
+ SSH| TCP | 22 | ::/0 (if using IPv6)
  
  - [ ] Verify firewall settings 
