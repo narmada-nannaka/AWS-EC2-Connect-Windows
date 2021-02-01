@@ -3,7 +3,7 @@ Powershell script to automatically connect EC2 instance from Windows 10 (or more
 
 *An alternative to **chmod400** for Windows run.*
 
-![Screenshot of an example connection made using this script.](/images/SSH EC2 Connect From Windows 10.png)
+![Screenshot of an example connection made using this script.](SSH EC2 Connect From Windows 10.png)
 
 ## Pre-Requisites
 1. Install OpenSSH.Client and OpenSSH.Server using [this link](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
